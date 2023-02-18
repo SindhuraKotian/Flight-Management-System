@@ -1,0 +1,9 @@
+Passenger Name:<input type="text"><br>
+Age: <input type="text"><br>
+
+<br>
+Flight Name: {{FlightName}}<br>
+<div *ngFor="let item of result|" >
+Name: {{item.passengerName}} <br>
+Age: {{item.passengerAge}}
+</div>

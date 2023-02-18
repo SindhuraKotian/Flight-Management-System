@@ -1,0 +1,32 @@
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.deps.json
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.runtimeconfig.json
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.runtimeconfig.dev.json
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.dll
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.RazorAssemblyInfo.cache
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.RazorAssemblyInfo.cs
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.AssemblyInfo.cs
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.pdb
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.dll
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.pdb
+C:\Users\M1056109\Documents\Visual Studio 2017\Projects\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.csprojAssemblyReference.cache
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.deps.json
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.runtimeconfig.json
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.runtimeconfig.dev.json
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.dll
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\bin\Debug\netcoreapp2.1\FinalCodingChallenge.pdb
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.csproj.AssemblyReference.cache
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.AssemblyInfo.cs
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.RazorAssemblyInfo.cache
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.RazorAssemblyInfo.cs
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.dll
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.pdb
+C:\Users\15623\Downloads\FinalCodingChallenge (1)\FinalCodingChallenge\FinalCodingChallenge\obj\Debug\netcoreapp2.1\FinalCodingChallenge.genruntimeconfig.cache

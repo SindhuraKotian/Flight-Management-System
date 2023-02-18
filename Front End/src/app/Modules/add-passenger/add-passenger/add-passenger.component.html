@@ -1,0 +1,10 @@
+<div [formGroup]="AddPassenger" class="container">
+  <input type="text" class="form-control" name="PassengerName" formControlName="PassengerName"
+    placeholder="Enter Passenger Name" required> <br>
+  <input type="text" class="form-control" name="age" formControlName="age" placeholder="Enter Age" required><br>
+  <select class="form-control" formControlName="FlightName" placeholder="Select Flight">
+    <option value="" disabled="true">--Select a Flight--</option>
+    <option value="{{item.flightId}}" *ngFor="let item of result">{{item.flightName}}</option>
+  </select><br>
+  <button class="form-control" type="button" (click)="AddPassengerMethod()"> Add </button>
+</div>
